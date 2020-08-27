@@ -54,4 +54,3 @@ void setmonth(int p, int q)
 	}
 	//	cout<<endl;
 }
-
